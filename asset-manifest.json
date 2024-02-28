@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mernstack/static/css/main.ff02f4b5.css",
+    "main.js": "/mernstack/static/js/main.571ca3c1.js",
+    "static/js/787.c253c422.chunk.js": "/mernstack/static/js/787.c253c422.chunk.js",
+    "index.html": "/mernstack/index.html",
+    "main.ff02f4b5.css.map": "/mernstack/static/css/main.ff02f4b5.css.map",
+    "main.571ca3c1.js.map": "/mernstack/static/js/main.571ca3c1.js.map",
+    "787.c253c422.chunk.js.map": "/mernstack/static/js/787.c253c422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.571ca3c1.js"
+  ]
+}
